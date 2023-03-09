@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html lang="pt-br" class="no-js">
 
@@ -21,6 +20,7 @@
 
     				<script>document.documentElement.className = document.documentElement.className + ' yes-js js_active js'</script>
 				<title>Cre8 Digital Agency &#8211; sua agencia digital &#039;em curitiba</title>
+<meta name='robots' content='noindex, nofollow' />
 <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
 <link rel='dns-prefetch' href='http://s.w.org/' />
 <link rel='stylesheet' href='fontA/css/all.css' />
@@ -148,8 +148,8 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="" /> 
 <meta name="generator" content="WordPress 6.0.3" />
 <meta name="generator" content="WooCommerce 7.0.0" />
-<link rel="canonical" href="https://cre8digital.com.br/index.html" />
-<link rel='shortlink' href='https://cre8digital.com.br/index.html' />
+<link rel="canonical" href="https://cre-8.site/" />
+<link rel='shortlink' href='https://cre-8.site/' />
 <link rel="alternate" type="application/json+oembed" href="temp" />
 <link rel="alternate" type="text/xml+oembed" href="format" />
 <meta name="generator" content="Redux 4.3.12" />	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
@@ -439,7 +439,7 @@ a {
 			<div class="widget-nav-menu menu-hover-default">
                 <nav class="navbar  nav-widget p-0 header-default-menu" aria-label="Widget menu" >
                 <div class="menu-all-pages-container">
-                    <div class="menu-main-menu-container"><ul id="menu-main-menu" class="sf-menu navbar-nav"><li id="menu-item-17108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6836 current_page_item menu-item-17108"><a href="https://cre8digital.com.br/index.html" aria-current="page"><span class="menu-line">Home</span></a></li>
+                    <div class="menu-main-menu-container"><ul id="menu-main-menu" class="sf-menu navbar-nav"><li id="menu-item-17108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6836 current_page_item menu-item-17108"><a href="https://cre-8.site/" aria-current="page"><span class="menu-line">Home</span></a></li>
 <li id="menu-item-8400" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8400"><a href="#sobre"><span class="menu-line">Sobre</span></a></li>
 <li id="menu-item-8402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8402"><a href="#servicos"><span class="menu-line">Serviços</span></a><span class="dropdown"><i class="dropdown-symbol"></i></span>
 <ul class="sub-menu">
@@ -451,7 +451,7 @@ a {
 	<li id="menu-item-18662" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18662"><a href="#servicos"><span class="menu-line">Supporte &#038; Manutenção</span></a></li>
 </ul>
 </li>
-<li id="menu-item-19487" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19487"><a href="/artigos"><span class="menu-line">Artigos</span></a></li>
+<li id="menu-item-19487" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19487"><a href="#portfolio"><span class="menu-line">portfolio</span></a></li>
 <li id="menu-item-8401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8401"><a href="#contato"><span class="menu-line">Contato</span></a></li>
 </ul></div>                </div>
             </nav>
@@ -465,7 +465,7 @@ a {
 				<div class="elementor-widget-container">
 			<div class="search_wrap search-form-default search_style_default search-animate-default">
     <div class="search_form_wrap">
-                    <form method="get" class="search-form search__form wp-block-search" action="https://cre8digital.com.br/index.html">
+                    <form method="get" class="search-form search__form wp-block-search" action="https://cre-8.site/">
                 <div class="form-search">
                     <input type="search" class="search-field search__input wp-block-search__input" name="s" value="" placeholder=" Pesquisa" />
                     <button type="submit" class="search-submit">
@@ -487,7 +487,7 @@ a {
                     <button class="btn btn-search-close btn--search-close" aria-label="Close search form">
                         <i class="fa fa-times"></i>
                     </button>
-                    <form method="get" class="search-form search__form wp-block-search" action="https://cre8digital.com.br/index.html">
+                    <form method="get" class="search-form search__form wp-block-search" action="https://cre-8.site/">
                         <div class="form-search">
                             <input type="search" class="search-field search__input wp-block-search__input" name="s" value="" placeholder=" Pesquisa" />
                             <button type="submit" class="search-submit"><i class="fa fa-search" aria-hidden="true"></i></button>
@@ -534,7 +534,7 @@ a {
 				</div>
 				<div class="hf-elementor-layout elementor-element elementor-element-6cc9ebe magnetic-item elementor-widget elementor-widget-iqonic_logo" data-id="6cc9ebe" data-element_type="widget" data-widget_type="iqonic_logo.default">
 				<div class="elementor-widget-container">
-			<a class="navbar-brand widget-logo  ajax-effect-link" href="https://cre8digital.com.br/index.html">
+			<a class="navbar-brand widget-logo  ajax-effect-link" href="https://cre-8.site/">
     <img class="logo_image" src="img/MX-WEB-DESIGN2-27.png" alt=""></a>		</div>
 				</div>
 					</div>
@@ -546,7 +546,7 @@ a {
 			<div class="widget-nav-menu menu-hover-default">
                 <nav class="navbar  nav-widget p-0 header-default-menu" aria-label="Widget menu" >
                 <div class="menu-all-pages-container">
-                    <div class="menu-main-menu-container"><ul id="menu-main-menu-1" class="sf-menu navbar-nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6836 current_page_item menu-item-17108"><a href="https://cre8digital.com.br/index.html" aria-current="page"><span class="menu-line">Home</span></a></li>
+                    <div class="menu-main-menu-container"><ul id="menu-main-menu-1" class="sf-menu navbar-nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6836 current_page_item menu-item-17108"><a href="https://cre-8.site/" aria-current="page"><span class="menu-line">Home</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8400"><a href="#sobre"><span class="menu-line">Sobre</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8402"><a href="#servicos"><span class="menu-line">Serviços</span></a><span class="dropdown"><i class="dropdown-symbol"></i></span>
 <ul class="sub-menu">
@@ -558,7 +558,7 @@ a {
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18662"><a href="#servicos"><span class="menu-line">Supporte &#038; e Manutenção</span></a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19487"><a href="/blog"><span class="menu-line">blog</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19487"><a href="#portfolio"><span class="menu-line">Trabalhos Recentes</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8401"><a href="#contato"><span class="menu-line">Contato</span></a></li>
 </ul></div>                </div>
             </nav>
@@ -572,7 +572,7 @@ a {
 				<div class="elementor-widget-container">
 			<div class="search_wrap search-form-default search_style_default search-animate-default">
     <div class="search_form_wrap">
-                    <form method="get" class="search-form search__form wp-block-search" action="https://cre8digital.com.br/index.html">
+                    <form method="get" class="search-form search__form wp-block-search" action="https://cre-8.site/">
                 <div class="form-search">
                     <input type="search" class="search-field search__input wp-block-search__input" name="s" value="" placeholder=" Pesquisa" />
                     <button type="submit" class="search-submit">
@@ -594,7 +594,7 @@ a {
                     <button class="btn btn-search-close btn--search-close" aria-label="Close search form">
                         <i class="fa fa-times"></i>
                     </button>
-                    <form method="get" class="search-form search__form wp-block-search" action="https://cre8digital.com.br/index.html">
+                    <form method="get" class="search-form search__form wp-block-search" action="https://cre-8.site/">
                         <div class="form-search">
                             <input type="search" class="search-field search__input wp-block-search__input" name="s" value="" placeholder=" Pesquisa" />
                             <button type="submit" class="search-submit"><i class="fa fa-search" aria-hidden="true"></i></button>
@@ -630,7 +630,7 @@ a {
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="hf-elementor-layout elementor-element elementor-element-eba1e7e magnetic-item elementor-widget__width-initial elementor-widget elementor-widget-iqonic_logo" data-id="eba1e7e" data-element_type="widget" data-widget_type="iqonic_logo.default">
 				<div class="elementor-widget-container">
-			<a class="navbar-brand widget-logo  ajax-effect-link" href="https://cre8digital.com.br/index.html">
+			<a class="navbar-brand widget-logo  ajax-effect-link" href="https://cre-8.site/">
     <img class="logo_image" src="img/MX-WEB-DESIGN2-27.png" alt=""></a>		</div>
 				</div>
 				<div class="hf-elementor-layout elementor-element elementor-element-b6d9848 elementor-hidden-desktop elementor-widget__width-initial mob-menu-icon2 elementor-hidden-laptop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-iqonic_search" data-id="b6d9848" data-element_type="widget" data-widget_type="iqonic_search.default">
@@ -644,7 +644,7 @@ a {
                     <button class="btn btn-search-close btn--search-close" aria-label="Close search form">
                         <i class="fa fa-times"></i>
                     </button>
-                    <form method="get" class="search-form search__form wp-block-search" action="https://cre8digital.com.br/index.html">
+                    <form method="get" class="search-form search__form wp-block-search" action="https://cre-8.site/">
                         <div class="form-search">
                             <input type="search" class="search-field search__input wp-block-search__input" name="s" value="" placeholder=" Pesquisa" />
                             <button type="submit" class="search-submit"><i class="fa fa-search" aria-hidden="true"></i></button>
@@ -702,7 +702,7 @@ a {
                 <i class="fab fa-instagram"></i>                            </a>
         </div>
             <div class="nicol-social-item">
-            <a class="nicol-share elementor-social-icon-linkedin ajax-effect-link" href="https://www.linkedin.com/cre8digital/" target="_blank">
+            <a class="nicol-share elementor-social-icon-linkedin ajax-effect-link" href="https://www.linkedin.com/cre-8/" target="_blank">
                 <i class="fab fa-linkedin"></i>                            </a>
         </div>
             <div class="nicol-social-item">
@@ -718,9 +718,7 @@ a {
         <!-- parellex  -->
         <div data-style="style-one" class="box-parent parallax-shape nicol-shape-style-1">
             <div class="pattern-block" data-depth="0.2">
-                <img srcset="img/cre8horizontal640.png 320w, img/cre8horizontal640.png 640w, img/cre8horizontal.png 1280w"
-				sizes="(max-width: 320px) 280px, (max-width: 640px) 640px, 1280px"
-				src="img/cre8horizontal.png" alt="logo cre8" >   </div>
+                <img src="img/web-design25.png" title="web-design25" alt="web-design25" />            </div>
         </div>
     </div>		</div>
 				</div>
@@ -861,7 +859,7 @@ a {
 
 
 			<!-- descrição sobre -->
-			<div style="text-align: justify;"class="nicol-title-desc">Somos uma equipe apaixonada de criadores especializados em desenvolvimento web, branding e gerenciamento de mídia social. Ajudamos empresas de todos os tamanhos, desde startups a empresas estabelecidas, ajudando-as a desenvolver e comercializar efetivamente suas ideias para seu público. Nossas soluções são baseadas em designs de sites novos ou existentes e marketing de mídia social.
+			<div "text-align: justify; class="nicol-title-desc">Somos uma equipe apaixonada de criadores especializados em desenvolvimento web, branding e gerenciamento de mídia social. Ajudamos empresas de todos os tamanhos, desde startups a empresas estabelecidas, ajudando-as a desenvolver e comercializar efetivamente suas ideias para seu público. Nossas soluções são baseadas em designs de sites novos ou existentes e marketing de mídia social.
 			<p>Nossa equipe ajuda as empresas a desenvolver designs de sites sob medida, soluções de marca, estratégias de otimização de mecanismos de pesquisa e muito mais. Nossa experiência em desenvolvimento web nos dá uma visão única das necessidades técnicas dos negócios online de hoje, permitindo-nos construir sites impressionantes que entregam resultados excepcionais.</p>  </div>			<!-- description end -->
 
 			</div>		</div>
@@ -983,45 +981,19 @@ a {
                                 <div class="portfolio-info-box">
 
                                     <div class="tilt-effect preserve-3d" data-tilt="" data-tilt-speed="2500" data-tilt-perspective="800" >
-										  <a href="https://www.tocadobarbudo.com.br" target="_blank"   class=ajax-effect-link>
+										  <a href="https://www.tocadobarbudo.com.br"   class=ajax-effect-link>
                                                 <img width="851" height="2560" src="img/toca.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="toca.jpg 100w, img/toca.jpg 341w, img/toca.jpg 768w, img/toca.jpg 681w, img/toca.jpg 851w" sizes="(min-width: 960px) 75vw, 100vw" />                                            </a>
                                                                             </div>
 
                                     <div class="portfolio-detail-main">
                                         <!-- titulo portifolio 1 -->
-                                        <a class="no-drag-ball ajax-effect-link" href="https://www.tocadobarbudo.com.br"target="_blank">
+                                        <a class="no-drag-ball ajax-effect-link" href="https://www.tocadobarbudo.com.br">
                                             <h5 class="portfolio-title">
                                                 Toca Do Barbudo                                            </h5>
                                         </a>
                                         <!-- fim do titulo -->
                                         <!-- categoria -->
-                                                                                        <a href="https://www.tocadobarbudo.com.br" target="_blank" class="no-drag-ball portfolio-category ajax-effect-link">
-                                                    Website                                                </a>
-                                                                                <!-- categoria -->
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-					<div class="swiper-slide">
-                        <div class="row">
-                            <div class="col-lg-12">
-                                <div class="portfolio-info-box">
-
-                                    <div class="tilt-effect preserve-3d" data-tilt="" data-tilt-speed="2500" data-tilt-perspective="800" >
-										  <a href="https://outlettenis.shop/" target="_blank"  class=ajax-effect-link>
-                                                <img width="851" height="2560" src="img/outlettenis.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="img/outlettenis.jpg 100w, img/outlettenis.jpg 341w, img/outlettenis.jpg 768w, img/outlettenis.jpg 681w, img/outlettenis.jpg 851w" sizes="(min-width: 960px) 75vw, 100vw" />                                            </a>
-                                                                            </div>
-
-                                    <div class="portfolio-detail-main">
-                                        <!-- titulo portifolio 1 -->
-                                        <a class="no-drag-ball ajax-effect-link" href="https://outlettenis.shop/" target="_blank"> 
-                                            <h5 class="portfolio-title">
-                                                OutLet Tenis                                           </h5>
-                                        </a>
-                                        <!-- fim do titulo -->
-                                        <!-- categoria -->
-                                                                                        <a href="https://outlettenis.shop/" target="_blank" class="no-drag-ball portfolio-category ajax-effect-link">
+                                                                                        <a href="https://www.tocadobarbudo.com.br" class="no-drag-ball portfolio-category ajax-effect-link">
                                                     Website                                                </a>
                                                                                 <!-- categoria -->
                                     </div>
@@ -1062,20 +1034,20 @@ a {
                                 <div class="portfolio-info-box">
 
                                     <div class="tilt-effect preserve-3d" data-tilt="" data-tilt-speed="2500" data-tilt-perspective="800" >
-										<a href=""  class=ajax-effect-link>
-											<img width="851" height="2560" src="img/castro-e-bueno.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="img/castro-e-bueno.jpg 100w, img/castro-e-bueno.jpg 341w, img/castro-e-bueno.jpg 768w, img/castro-e-bueno.jpg 681w, img/castro-e-bueno.jpg 851w" sizes="(min-width: 960px) 75vw, 100vw" />                                            </a>
-								</div>
+                                                                                    <a href="oi"  class=ajax-effect-link>
+                                                <img width="792" height="2560"  sizes="(min-width: 960px) 75vw, 100vw" />                                            </a>
+                                                                            </div>
 
-<div class="portfolio-detail-main">
-<!-- portfolio 2 -->
-<a class="no-drag-ball ajax-effect-link" href="oi">
-<h5 class="portfolio-title">
-	Castro & Bueno                                            </h5>
+                                    <div class="portfolio-detail-main">
+                                        <!-- portfolio 2 -->
+                                        <a class="no-drag-ball ajax-effect-link" href="">
+                                            <h5 class="portfolio-title">
+                                                Em Breve                                            </h5>
                                         </a>
                                         <!-- titulo -->
                                         <!-- categoria -->
                                                                                         <a href="" class="no-drag-ball portfolio-category ajax-effect-link">
-                                                    Website                                               </a>
+                                                    Link Interativo                                               </a>
                                                                                 <!-- fim categoria -->
                                     </div>
                                 </div>
@@ -1089,21 +1061,21 @@ a {
                                 <div class="portfolio-info-box">
 
                                     <div class="tilt-effect preserve-3d" data-tilt="" data-tilt-speed="2500" data-tilt-perspective="800" >
-										<a href=""   class=ajax-effect-link>
-											  <img width="851" height="2560" src="img/visicard.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="img/visicard.jpg 100w, img/visicard.jpg 341w, img/visicard.jpg 768w, img/visicard.jpg 681w, img/visicard.jpg 851w" sizes="(min-width: 960px) 75vw, 100vw" />                                            </a>
-																		  </div>
+                                                                                    <a href=""  class=ajax-effect-link>
+                                                <img width="1219" height="4670"  sizes="(min-width: 960px) 75vw, 100vw" />                                            </a>
+                                                                            </div>
 
-								  <div class="portfolio-detail-main">
-									  <!-- titulo portifolio 1 -->
-									  <a class="no-drag-ball ajax-effect-link" href="">
-										  <h5 class="portfolio-title">
-											  VisiCard                                            </h5>
-									  </a>
-									  <!-- fim do titulo -->
-									  <!-- categoria -->
-																					  <a href="" class="no-drag-ball portfolio-category ajax-effect-link">
-												  Website                                                </a>
-																			  <!-- categoria -->
+                                    <div class="portfolio-detail-main">
+                                        <!-- portfolio 3 -->
+                                        <a class="no-drag-ball ajax-effect-link" href="">
+                                            <h5 class="portfolio-title">
+                                                Em Breve                                             </h5>
+                                        </a>
+                                        <!-- portfolio titulo -->
+                                        <!-- categoria -->
+                                                                                        <a href="" class="no-drag-ball portfolio-category ajax-effect-link">
+                                                    Link Interativo                                               </a>
+                                                                                <!-- category end -->
                                     </div>
                                 </div>
                             </div>
@@ -1782,7 +1754,7 @@ a {
 
 
 			<!-- descrição -->
-			<div class="nicol-title-desc">contato@cre8digital.com.br</div>			<!-- fim -->
+			<div class="nicol-title-desc">contato@cre-8.site</div>			<!-- fim -->
 
 			</div>		</div>
 				</div>
@@ -1820,8 +1792,8 @@ a {
 					<span class="nicol-btn-line-holder"><span class="nicol-btn-line-hidden"></span><span class="nicol-btn-text">(41) 98540-4142</span><span class="nicol-btn-line"></span><i class="fas fa-chevron-right"></i></span>            </a>
 					<div class="nicol-button-container">
 
-						<a class="nicol-box-shadow nicol-btn nicol-btn-link ajax-effect-link" href="mailto:contato@cre8digital.com.br">
-						<span class="nicol-btn-line-holder"><span class="nicol-btn-line-hidden"></span><span class="nicol-btn-text">contato@cre8digital.com.br</span><span class="nicol-btn-line"></span><i class="fas fa-chevron-right"></i></span>            </a>
+						<a class="nicol-box-shadow nicol-btn nicol-btn-link ajax-effect-link" href="mailto:contato@cre-8.site">
+						<span class="nicol-btn-line-holder"><span class="nicol-btn-line-hidden"></span><span class="nicol-btn-text">contato@cre-8.site</span><span class="nicol-btn-line"></span><i class="fas fa-chevron-right"></i></span>            </a>
 						<div class="nicol-button-container">
 			
 
@@ -1878,7 +1850,7 @@ a {
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="hf-elementor-layout elementor-element elementor-element-1cead82 elementor-widget elementor-widget-iqonic_logo" data-id="1cead82" data-element_type="widget" data-widget_type="iqonic_logo.default">
 				<div class="elementor-widget-container">
-			<a class="navbar-brand widget-logo  ajax-effect-link" href="https://cre8digital.com.br/index.html">
+			<a class="navbar-brand widget-logo  ajax-effect-link" href="https://cre-8.site/">
     <img class="logo_image" src="img/MX-WEB-DESIGN2-27.png" alt=""></a>		</div>
 				</div>
 				<div class="hf-elementor-layout elementor-element elementor-element-993da2c elementor-widget elementor-widget-heading" data-id="993da2c" data-element_type="widget" data-widget_type="heading.default">
@@ -1897,7 +1869,7 @@ a {
     <nav class="navbar nav-widget navbar-light p-0 footer-default-menu  ">
         <div class="navbar-collapse new-collapse footer-collapse">
             <div class="menu-all-pages-container widget-menu-container">
-                <div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="layout-footer-widget footer-menu"><li id="menu-item-18795" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-18795"><a href="https://cre8digital.com.br/index.htmlprivacidade/">
+                <div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="layout-footer-widget footer-menu"><li id="menu-item-18795" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-18795"><a href="https://cre-8.site/privacidade/">
 					Política de Privacidade</a></li>
 <li id="menu-item-18796" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18796"><a href="termos.html">termos e condiçoes</a></li>
 </ul></div>            </div>
@@ -1965,7 +1937,7 @@ a {
                 }).then((result) => {
 
                     if (result.value) {
-                        window.location.href = 'https://cre8digital.com.br/index.html';
+                        window.location.href = 'https://cre-8.site/';
                     }
                 });
             });
@@ -1995,7 +1967,7 @@ a {
                         <div class="menu-new-wrapper row align-items-center">
                             <div class="menu-scrollbar verticle-mn yScroller col-lg-12">
                                 <div class="nicol-full-menu">
-                                    <div class="menu-mobile-menu-container"><ul id="menu-mobile-menu" class="navbar-nav top-menu"><li id="menu-item-18017" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6836 current_page_item menu-item-18017"><a href="https://cre8digital.com.br/index.html" aria-current="page">Home</a></li>
+                                    <div class="menu-mobile-menu-container"><ul id="menu-mobile-menu" class="navbar-nav top-menu"><li id="menu-item-18017" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6836 current_page_item menu-item-18017"><a href="https://cre-8.site/" aria-current="page">Home</a></li>
 <li id="menu-item-18019" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18019"><a href="#sobre">Sobre</a></li>
 <li id="menu-item-18020" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-18020"><a href="#servicos">Serviços</a>
 <ul class="sub-menu">
@@ -2007,7 +1979,7 @@ a {
 	<li id="menu-item-18656" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18656"><a href="#servicos">Supporte &#038; Manutenção</a></li>
 </ul>
 </li>
-<li id="menu-item-19488" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19488"><a href="/artigos">Artigos</a></li>
+<li id="menu-item-19488" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19488"><a href="#portfolio">Portifolio</a></li>
 <li id="menu-item-18028" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18028"><a href="#contato">Contato</a></li>
 </ul></div>                                </div>
                             </div>
@@ -2085,6 +2057,10 @@ a {
 		                            </div>
                         </div>
 <!-- whats -->  
+            <div class="ht-ctc ht-ctc-chat ctc-analytics ctc_wp_desktop style-3_1  " id="ht-ctc-chat"  
+                style="display: none;  position: fixed; bottom: 15px; right: 15px;"   >
+                                <div class="ht_ctc_style ht_ctc_chat_style">
+                <style id="ht-ctc-s3">
 .ht-ctc .ctc_s_3_1:hover svg stop{stop-color:#25D366;}.ht-ctc .ctc_s_3_1:hover .ht_ctc_padding,.ht-ctc .ctc_s_3_1:hover .ctc_cta_stick{background-color:#25D366 !important;box-shadow:0px 0px 11px rgba(0,0,0,.5);}
 </style>
 
@@ -2348,4 +2324,3 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
 <script type='text/javascript' src='js/ajax-customizer.min.js' id='nicol-ajax-customizer-js'></script>
 </body>
 </html>
-
